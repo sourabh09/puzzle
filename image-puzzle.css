@@ -75,3 +75,11 @@
     background-color: #4A934A;
     color: #FFF;
 }
+#playPanel{
+    margin-top: 40px !important;
+}
+.extra{
+    padding: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
